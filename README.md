@@ -4,7 +4,7 @@
 </p>
 
 <!-- Animated Waving Hand + Name -->
-<h1 align="center">Hi, I'm Hasnain! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"></h1>
+<h1 align="center">Hi, I'm Muhammad Hasnain! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=4CAF50&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%9A%80;Frontend+Learner+%F0%9F%8E%93;Always+Learning+New+Things+%F0%9F%94%A5;Welcome+to+my+GitHub+Profile!" />
