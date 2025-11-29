@@ -46,12 +46,12 @@
 <p align="center">
 
   <!-- GitHub -->
-  <a href="https://github.com/hasnain">
+  <a href="https://github.com/hasnaincoder550">
     <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 
   <!-- LinkedIn -->
-  <a href="YOUR-LINKEDIN-LINK">
+  <a href="Muhammad Hasnain">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 
