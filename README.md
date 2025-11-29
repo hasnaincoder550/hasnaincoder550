@@ -39,16 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hasnain&show_icons=true&theme=radical" height="160px" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnain&theme=radical" height="160px" />
-
-</div>
-
 ---
 
 ##  📫  Connect With Me 
