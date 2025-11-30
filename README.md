@@ -51,7 +51,7 @@
   </a>
 
   <!-- LinkedIn -->
-  <a href="Muhammad Hasnain">
+  <a href="https://www.linkedin.com/in/muhammad-hasnain-b89840379/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 
