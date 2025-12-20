@@ -1,67 +1,33 @@
-<!-- Animated Banner -->
-<p align="center">
-  <!-- <img src="https://i.imgur.com/PrE8ZqR.gif" width="100%" /> -->
+<h1 align="center">Hi 👋, I'm Muhammad Hasnain</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnaincoder550&label=Profile%20views&color=0e75b6&style=flat" alt="hasnaincoder550" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnaincoder550" alt="hasnaincoder550" /></a> </p>
+
+- 🔭 I’m currently working on **JS language**
+
+- 🌱 I’m currently learning **JavaScript and Working on Projects**
+
+- 💬 Ask me about **HTML,CSS,JS**
+
+- 📫 How to reach me **hasnainkhanjadoon550@gmail.com**
+
+- ⚡ Fun fact **I think I am Funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad hasnain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad hasnain" height="30" width="40" /></a>
+<a href="https://fb.com/hasnainkhanjadoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasnainkhanjadoon" height="30" width="40" /></a>
 </p>
 
-<!-- Animated Waving Hand + Name -->
-<h1 align="center">Hi, I'm Muhammad Hasnain! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"></h1>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=4CAF50&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%9A%80;Frontend+Learner+%F0%9F%8E%93;Always+Learning+New+Things+%F0%9F%94%A5;Welcome+to+my+GitHub+Profile!" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnaincoder550&show_icons=true&locale=en&layout=compact" alt="hasnaincoder550" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnaincoder550&show_icons=true&locale=en" alt="hasnaincoder550" /></p>
 
-## 🚀 About Me
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnaincoder550&" alt="hasnaincoder550" /></p>
 
-- 🌱 Currently learning: **JavaScript**  
-- 🎨 Love building: **Creative & modern web designs**  
-- 🤝 Open to: **HTML, CSS, JavaScript collaborations**  
-- 💬 Ask me about: **Responsive websites & UI design**  
-- 📧 Email: **hasnainkhanjadoon550@gmail.com**  
-- ⚡ Fun fact: *I enjoy creating beautiful things on the web!* ✨
 
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" />
-
-  <a href="https://github.com/hasnain">
-    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" />
-  </a>
-
-</p>
-
----
-
----
-
-##  📫  Connect With Me 
-
-<p align="center">
-
-  <!-- GitHub -->
-  <a href="https://github.com/hasnaincoder550">
-    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/muhammad-hasnain-b89840379/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:hasnainkhanjadoon550@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-
-</p>
-
----
-
-<h3 align="center">🌟 Thanks for visiting! Have an amazing day 😄</h3>
